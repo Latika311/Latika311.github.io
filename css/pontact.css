@@ -1,0 +1,49 @@
+body{
+	background: #eeedd1;
+	width: 90%;
+	margin: 0 auto;
+	text-align: center;
+	padding: 15px;
+	font-family: helvetica, sans-serif;
+}
+
+li{
+	display: inline;
+	padding: 0.5em;
+	font-family: helvetica, sans-serif;
+	color: white;
+}
+
+img{
+	height: 200px;
+	width: 200px;
+	margin: 5px;
+	padding: 15px;
+}
+
+.nav{
+	padding: 0.5em 0;
+	display: inline;
+}
+
+#nav (overflow: auto;){
+margin: 1%;
+}
+input[type="submit"] {
+      background: brown;
+      color: white;
+    }
+
+ul{
+	padding:10px;
+	background: rgba(173,75,0,1);
+}
+
+header{
+	text-align: center;
+	color: white;
+}
+
+a {
+	  text-decoration: none;
+      color: white;

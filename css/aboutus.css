@@ -1,0 +1,42 @@
+body{
+	background-color: #EEEDD1;
+	padding: 15px;
+	width: 90%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#nav (overflow: auto;){
+margin: 1%;
+}
+
+.nav{
+	display: inline;
+	padding: 0.5em;
+}
+
+li{
+	display: inline;
+	padding: 0.5em;
+	font-family: helvetica, sans-serif;
+	color: white;
+}
+
+img{
+	height: 200px;
+	width: 200px;
+}
+
+.text{
+border: 1px solid #665544;
+background-color: #efefef;
+padding: inherit;
+}
+
+ul{
+	padding:10px;
+	background-color: rgba(175, 75,0,1);
+	font-family: helvetica, sans-serif;
+	display: block;
+	color: white;
+}
